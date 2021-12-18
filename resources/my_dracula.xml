@@ -6,7 +6,7 @@
         <option name="CARET_ROW_COLOR" value="44475a" />
         <option name="CONSOLE_BACKGROUND_KEY" value="282a36" />
         <option name="DELETED_LINES_COLOR" value="cd4644" />
-        <option name="DOCUMENTATION_COLOR" value="3a3d4c" />
+        <option name="DOCUMENTATION_COLOR" value="282a36" />
         <option name="DOC_COMMENT_LINK" value="ff79c6" />
         <option name="FILESTATUS_ADDED" value="50fa7b" />
         <option name="FILESTATUS_COPIED" value="50fa7b" />
@@ -29,15 +29,15 @@
         <option name="FILESTATUS_addedOutside" value="50fa7b" />
         <option name="FILESTATUS_changelistConflict" value="ff5555" />
         <option name="FILESTATUS_modifiedOutside" value="8be9fd" />
-        <option name="GUTTER_BACKGROUND" value="161c26" />
+        <option name="GUTTER_BACKGROUND" value="21222c" />
         <option name="INDENT_GUIDE" value="2e333c" />
-        <option name="INFORMATION_HINT" value="3a3d4c" />
+        <option name="INFORMATION_HINT" value="282a36" />
         <option name="LINE_NUMBERS_COLOR" value="a3a5ba" />
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ff79c6" />
-        <option name="MODIFIED_LINES_COLOR" value="74b4c1" />
-        <option name="RIGHT_MARGIN_COLOR" value="a8b0e2" />
-        <option name="SELECTED_INDENT_GUIDE" value="a8b0e2" />
-        <option name="SELECTED_TEARLINE_COLOR" value="a8b0e2" />
+        <option name="MODIFIED_LINES_COLOR" value="313341" />
+        <option name="RIGHT_MARGIN_COLOR" value="2e333c" />
+        <option name="SELECTED_INDENT_GUIDE" value="2e333c" />
+        <option name="SELECTED_TEARLINE_COLOR" value="2e333c" />
         <option name="SELECTION_BACKGROUND" value="362183" />
         <option name="SEPARATOR_ABOVE_COLOR" value="2e333c" />
         <option name="SEPARATOR_BELOW_COLOR" value="2e333c" />
@@ -51,7 +51,7 @@
         <option name="VCS_ANNOTATIONS_COLOR_5" value="8be9fd" />
         <option name="VISUAL_INDENT_GUIDE" value="2e333c" />
         <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="c89f73" />
-        <option name="LOOKUP_COLOR" value="3a3d4c" />
+        <option name="LOOKUP_COLOR" value="282a36" />
     </colors>
     <attributes>
         <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -109,7 +109,7 @@
         <option name="BREADCRUMBS_HOVERED">
             <value>
                 <option name="FOREGROUND" value="ff79c6" />
-                <option name="BACKGROUND" value="161c26" />
+                <option name="BACKGROUND" value="21222c" />
             </value>
         </option>
         <option name="BREADCRUMBS_INACTIVE">

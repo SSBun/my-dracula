@@ -8,10 +8,10 @@
     "secondaryAccentColor": "#bd93f9",
     "primaryForeground": "#f8f8f2",
     "primaryBackground": "#21222c",
-    "secondaryBackground": "#3a3d4c",
+    "secondaryBackground": "#282a36",
     "hoverBackground": "#161c26",
-    "selectionBackground": "#6272a4",
-    "selectionInactiveBackground": "#4e5a82",
+    "selectionBackground": "#44475a",
+    "selectionInactiveBackground": "#313341",
     "borderColor": "#161c26",
     "separatorColor": "#5d5e66"
   },
@@ -240,7 +240,7 @@
         "hoverBackground": "hoverBackground"
       },
       "Header": {
-        "background": "#484c60",
+        "background": "secondaryBackground",
         "inactiveBackground": "secondaryBackground"
       },
       "HeaderTab": {
