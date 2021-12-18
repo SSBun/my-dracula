@@ -30,7 +30,7 @@
         <option name="FILESTATUS_changelistConflict" value="ff5555" />
         <option name="FILESTATUS_modifiedOutside" value="8be9fd" />
         <option name="GUTTER_BACKGROUND" value="161c26" />
-        <option name="INDENT_GUIDE" value="6b7090" />
+        <option name="INDENT_GUIDE" value="2e333c" />
         <option name="INFORMATION_HINT" value="3a3d4c" />
         <option name="LINE_NUMBERS_COLOR" value="a3a5ba" />
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ff79c6" />
@@ -39,17 +39,17 @@
         <option name="SELECTED_INDENT_GUIDE" value="a8b0e2" />
         <option name="SELECTED_TEARLINE_COLOR" value="a8b0e2" />
         <option name="SELECTION_BACKGROUND" value="362183" />
-        <option name="SEPARATOR_ABOVE_COLOR" value="6b7090" />
-        <option name="SEPARATOR_BELOW_COLOR" value="6b7090" />
+        <option name="SEPARATOR_ABOVE_COLOR" value="2e333c" />
+        <option name="SEPARATOR_BELOW_COLOR" value="2e333c" />
         <option name="ScrollBar.Mac.hoverThumbColor" value="bd93f9" />
         <option name="ScrollBar.Mac.thumbColor" value="bd93f983" />
-        <option name="TEARLINE_COLOR" value="6b7090" />
+        <option name="TEARLINE_COLOR" value="2e333c" />
         <option name="VCS_ANNOTATIONS_COLOR_1" value="bd93f9" />
         <option name="VCS_ANNOTATIONS_COLOR_2" value="ff79c6" />
         <option name="VCS_ANNOTATIONS_COLOR_3" value="ffb86c" />
         <option name="VCS_ANNOTATIONS_COLOR_4" value="50fa7b" />
         <option name="VCS_ANNOTATIONS_COLOR_5" value="8be9fd" />
-        <option name="VISUAL_INDENT_GUIDE" value="6b7090" />
+        <option name="VISUAL_INDENT_GUIDE" value="2e333c" />
         <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="c89f73" />
         <option name="LOOKUP_COLOR" value="3a3d4c" />
     </colors>
