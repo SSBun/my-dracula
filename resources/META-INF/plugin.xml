@@ -1,0 +1,29 @@
+<idea-plugin>
+  <id>cool.csl.www.jetbrains.my.dracula</id>
+  <name>My Dracula</name>
+  <version>1.0</version>
+  <vendor email="caishilin@yahoo.com" url="http://csl.cool">SSBun</vendor>
+
+  <description>A color scheme copied from the Dracula but has a little optimization to its appearance.</description>
+
+  <change-notes>
+    Initialized.
+  </change-notes>
+
+  <!-- please see https://plugins.jetbrains.com/docs/intellij/build-number-ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="9bb401e1-ee06-4e25-93c7-8043135f76f9" path="/my_dracula.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
